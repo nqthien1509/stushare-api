@@ -40,9 +40,8 @@
       "author": "Văn Tuấn",
       "course_code": "IT4450"
     }
-  ]
-}
-"requests": [
+  ],
+  "requests": [
     {
       "id": "req1",
       "title": "Cần tìm đề cuối kỳ Giải tích 1 năm 2023",
