@@ -1,0 +1,44 @@
+{
+  "documents": [
+    {
+      "id": "1",
+      "title": "Yes or No",
+      "type": "Sách",
+      "image_url": "https://picsum.photos/id/40/200/300",
+      "downloads": 1024,
+      "rating": 4.5,
+      "author": "Spencer Johnson",
+      "course_code": "HH50"
+    },
+    {
+      "id": "2",
+      "title": "10 suy nghĩ không bằng 1 hành động",
+      "type": "Sách",
+      "image_url": "https://picsum.photos/id/48/200/300",
+      "downloads": 500,
+      "rating": 4.2,
+      "author": "Hoàng Văn Tuấn",
+      "course_code": "HH50"
+    },
+    {
+      "id": "3",
+      "title": "Pháp luật đại cương",
+      "type": "Tài Liệu",
+      "image_url": "https://picsum.photos/id/175/200/300",
+      "downloads": 2524,
+      "rating": 4.8,
+      "author": "Lê Duyên Hải",
+      "course_code": "IT4450"
+    },
+    {
+      "id": "4",
+      "title": "Triết học Mác - Lênin",
+      "type": "Tài Liệu",
+      "image_url": "https://picsum.photos/id/180/200/300",
+      "downloads": 1830,
+      "rating": 4.0,
+      "author": "Văn Tuấn",
+      "course_code": "IT4450"
+    }
+  ]
+}
